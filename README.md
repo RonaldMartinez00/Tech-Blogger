@@ -14,7 +14,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ### **Result**
 
 
-You can find the password generator app at [Tech-Blogger](https://github.com/RonaldMartinez00/Tech-Blogger)
+You can find the app at [Tech-Blogger](https://github.com/RonaldMartinez00/Tech-Blogger)
 
 ## **Completed Project**
 ![](/assets/ss1.png)
